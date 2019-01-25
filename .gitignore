@@ -1,4 +1,4 @@
-zendesk_clients.csv
+*.csv
 Insights.ipynb
 .DS_Store
 .ipynb_checkpoints/
